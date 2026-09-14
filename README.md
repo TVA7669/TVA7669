@@ -58,7 +58,7 @@ Self-taught **Frontend Developer** and Computer Science student. I love turning 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/itx_tanveer_ahmad/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-jamtanveerab--web-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/TVA7669)
+[![GitHub](https://img.shields.io/badge/GitHub-TVA7669-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/TVA7669)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=jamtanveerab@gmail.com)
 
