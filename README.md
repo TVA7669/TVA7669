@@ -48,19 +48,7 @@ Self-taught **Frontend Developer** and Computer Science student. I love turning 
 
 ---
 
-## 🌐 Portfolio
 
-<div align="center">
-
-<a href="https://tanveer-portfoilo.vercel.app/" target="_blank">
-  <img src="https://github.com/TVA7669/Tanveer-Ahmad-Portfolio/raw/main/src/assets/img/portfolio.png" alt="My Portfolio">
-</a>
-
-### [🚀 Visit My Portfolio](https://tanveer-portfoilo.vercel.app/)
-
-</div>
-
----
 
 ## 📫 Connect With Me
 
