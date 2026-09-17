@@ -32,10 +32,10 @@ Self-taught Frontend Developer and Computer Science student. I love turning idea
 🚀 Featured Projects
 
 * [Portfolio Website](https://tanveer-portfoilo.vercel.app/) — My personal React portfolio
-* iNotebook — MERN-based note-taking app
-* Weather App — React app showing live weather for 5 Pakistani cities
-* Todo App — React + Redux CRUD app
-* Tic Tac Toe — Classic 2-player game in vanilla JavaScript
+* [iNotebook](https://i-notebook-mhpi-cixphm6lq-tanveer-ahmads-projects-b2697996.vercel.app/login) — MERN-based note-taking app
+* [Weather App](https://weather-application-omega-rose.vercel.app/) — React app showing live weather for 5 Pakistani cities
+* [Todo App](https://todo-app-redux-gamma.vercel.app/) — React + Redux CRUD app
+* [TextUtils](https://text-utilis-mw6n.vercel.app/) — React app help to manipulate text
 
 📈 What I'm Working On
 
